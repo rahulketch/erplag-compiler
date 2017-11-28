@@ -1,0 +1,1 @@
+nasm -felf64 code.asm && gcc code.o && ./a.out
